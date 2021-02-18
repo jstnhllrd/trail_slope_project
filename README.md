@@ -1,4 +1,5 @@
 # Project Overview
+The goal of this project is to develop tools for creating maps that illustrate the slope of terrain along hiking trails. The trail_slope.py script was developed in QGIS.
 * This tool automates creation of slope profiles for hiking trails.
 * Each trail is split into multiple segments of 10 meters maximum length per segment (default).
 * Using a Digital Elevation Model (DEM), elevation is extracted for every vertex in the split trails file.

@@ -14,9 +14,15 @@
 ![Image of map](https://github.com/jstnhllrd/trail_slope_project/blob/main/vf_2MP.png)
 ##### Map of the primary hiking trails at Valley Falls State Park, WV.
 
+&nbsp;
+
 ![Image of map](https://github.com/jstnhllrd/trail_slope_project/blob/main/slope_example_10m_2MP.png)
 ##### Trail slopes map of Valley Falls State Park, WV. The trails were split into, maximum, 10 meter segments.
 
+&nbsp;
+
+![Image of map](https://github.com/jstnhllrd/trail_slope_project/blob/main/slope_example_50m_2MP.png)
+##### Trail slopes map of Valley Falls State Park, WV. The trails were split into, maximum, 50 meter segments.
 ---
 # Conclusions
 
